@@ -1,0 +1,15 @@
+{
+  "name": "truffle-console-bug",
+  "version": "0.1.0",
+  "author": "Paul Berg (https://paulrberg.com)",
+  "description": "",
+  "license": "MIT",
+  "keywords": [
+    "ethereum",
+    "truffle",
+    "blockchain"
+  ],
+  "dependencies": {
+    "truffle": "^5.0.0"
+  }
+}
